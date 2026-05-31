@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dmitry Kozlov</title>
-    <link>/authors/admin/</link>
-    <description>Recent content on Dmitry Kozlov</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dmitry Kozlov</title><link>/authors/admin/</link><atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml"/><description>Dmitry Kozlov</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><image><url>/img/icon-192.png</url><title>Dmitry Kozlov</title><link>/authors/admin/</link></image></channel></rss>
